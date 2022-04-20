@@ -1,2 +1,2 @@
-# -SS-OAuth
+# SS-OAuth
 OAuth Project
